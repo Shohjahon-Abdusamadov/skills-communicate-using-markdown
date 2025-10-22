@@ -14,10 +14,18 @@ GitHub is about more than code. It's a platform for software collaboration, and 
 
 In this course, you will:
 
-1. Add headers
-2. Add an image
-3. Add a code example
-4. Make a task list
+1. # Bu 1-darajali sarlavha
+   ## Bu 2-darajali sarlavha
+   ### Bu 3-darajali sarlavha
+
+2. ![Octocat rasmi](https://octodex.github.com/images/octocat.png)
+
+3. console.log("Hello, Markdown!");
+
+4. - [x] Header qo‘shdim  
+   - [x] Rasm joyladim  
+   - [ ] Kod yozdim  
+
 5. Merge your pull request
 
 ### How to start this course
